@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="" />
+    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bomberosweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina_2.0/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598469918286</updated>
-      <workItem from="1598469919377" duration="772000" />
+      <workItem from="1598469919377" duration="1093000" />
     </task>
     <task id="LOCAL-00001" summary="ss">
       <created>1598470224524</created>
@@ -40,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598470224524</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ss">
+      <created>1598471013332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598471013332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,17 +97,17 @@
       <screen x="0" y="0" width="1303" height="768" />
     </state>
     <state x="418" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1303.768@0.0.1303.768" timestamp="1598470208216" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1598470223171">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1598471010754">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1303.768@0.0.1303.768" timestamp="1598470223171" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1303.768@0.0.1303.768" timestamp="1598471010754" />
     <state x="428" y="107" key="NewPhpClassDialog" timestamp="1598469965807">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
     <state x="428" y="107" key="NewPhpClassDialog/0.0.1303.768@0.0.1303.768" timestamp="1598469965807" />
-    <state x="243" y="117" key="Vcs.Push.Dialog.v2" timestamp="1598470735241">
+    <state x="243" y="117" key="Vcs.Push.Dialog.v2" timestamp="1598470892894">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
-    <state x="243" y="117" key="Vcs.Push.Dialog.v2/0.0.1303.768@0.0.1303.768" timestamp="1598470735241" />
+    <state x="243" y="117" key="Vcs.Push.Dialog.v2/0.0.1303.768@0.0.1303.768" timestamp="1598470892894" />
   </component>
 </project>
