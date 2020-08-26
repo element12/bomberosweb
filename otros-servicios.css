@@ -1,0 +1,346 @@
+div#container
+{
+   width: 1360px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Arriba
+{
+   width: 1360px;
+   height: 44px;
+   background-color: #800000;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+}
+#Arriba_text
+{
+   position: absolute;
+   left: 1px;
+   top: 15px;
+   width: 1358px;
+   height: 28px;
+   line-height: 28px;
+   overflow: hidden;
+   text-align: center;
+}
+#Escudo2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_menu2
+{
+   border: 0px solid #C0C0C0;
+   background-color: transparent;
+   margin: 0;
+   text-align: center;
+}
+#wb_menu2 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_menu2 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 70px 0px 0px;
+}
+#wb_menu2 a
+{
+   display: block;
+   float: left;
+   color: #000000;
+   border: 0px none #CCCCCC;
+   background-color: transparent;
+   background-image: none;
+   font-family: "MS Sans Serif";
+   font-weight: bold;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   height: 25px;
+   line-height: 25px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   text-align: center;
+}
+#wb_menu2 li:hover a, #wb_menu2 a:hover, #wb_menu2 .active
+{
+   color: #800000;
+   background-color: transparent;
+   background-image: none;
+   border: 0px none #2E6DA4;
+}
+#wb_menu2 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_menu2 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_menu2 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#menu
+{
+   padding: 8px 15px 8px 15px;
+   list-style: none;
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   font-family: "MS Sans Serif";
+   font-weight: bold;
+   font-size: 0;
+   margin: 0;
+   text-align: left;
+}
+#menu > li
+{
+   display: inline-block;
+   font-size: 13px;
+}
+#menu a
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+#menu a:hover
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+#menu > .active
+{
+   color: #000000;
+}
+#menu > li + li:before
+{
+   content: "|";
+   padding: 0 6px;
+   color: #000000;
+}
+#Plataforma
+{
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   margin: 0;
+}
+#Shape1
+{
+   width: 1116px;
+   height: 719px;
+   background-color: transparent;
+   background-image: none;
+   border: 5px #A52A2A solid;
+}
+#Shape1_text
+{
+   position: absolute;
+   left: 1px;
+   top: 357px;
+   width: 1114px;
+   height: 361px;
+   line-height: 361px;
+   overflow: hidden;
+   text-align: center;
+}
+#NavigationBar1 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#NavigationBar1 ul.navbar li
+{
+   height: 30px;
+   width: 152px;
+   margin: 0 0 4px 0;
+   vertical-align: bottom;
+}
+#NavigationBar1 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+#NavigationBar1 ul.navbar li a img
+{
+   position: absolute;
+   left: 0;
+   z-index: 1;
+   border-width: 0;
+}
+#NavigationBar1 ul.navbar li span
+{
+   display: block;
+   height: 30px;
+   width: 152px;
+   position: absolute;
+   z-index: 2;
+}
+#NavigationBar1 a .hover
+{
+   visibility: hidden;
+}
+#NavigationBar1 a:hover .hover
+{
+   visibility: visible;
+}
+#NavigationBar1 a:hover span
+{
+   visibility: hidden;
+}
+#SlideMenu1 ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#SlideMenu1 li a
+{
+   background-color: #800000;
+   background-color: rgba(128,0,0,0.80);
+   border-color: #2E6DA4;
+   border-style: solid;
+   border-width: 1px;
+   color: #FFFFFF;
+   cursor: pointer;
+   display: block;
+   font-weight: normal;
+   left: 0;
+   height: 16px;
+   margin: 0;
+   padding: 2px 2px 2px 5px;
+   position: relative;
+   text-decoration: none;
+   top: 0;
+   text-align: left;
+}
+#SlideMenu1 li a:hover
+{
+   background-color: #286090;
+   border-color: #204D74;
+   color: #FFFFFF;
+   font-weight: normal;
+   text-decoration: none;
+}
+#SlideMenu1 li li a
+{
+   background-color: #FFFFFF;
+   border-color: #CCCCCC;
+   border-style: solid;
+   border-width: 1px;
+   color: #333333;
+   display: block;
+   font-weight: normal;
+   height: 16px;
+   margin: 1px 0px 1px 0px;
+   padding: 2px 2px 2px 5px;
+   text-decoration: none;
+}
+#SlideMenu1 li li a:hover
+{
+   background-color: #D4D4D4;
+   border-color: #8C8C8C;
+   color: #333333;
+   font-weight: normal;
+   text-decoration: none;
+}
+#wb_Line1
+{
+   font-size: 0;
+}
+#Line1
+{
+   position: absolute;
+}
+#Fondo
+{
+   width: 1360px;
+   height: 124px;
+   background-color: #800000;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#Fondo_text
+{
+   position: absolute;
+   left: 1px;
+   top: 55px;
+   width: 1358px;
+   height: 68px;
+   line-height: 68px;
+   overflow: hidden;
+   text-align: center;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Numeros 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 15px 15px 15px 15px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Numeros div
+{
+   text-align: left;
+}
+#Escudo1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}

@@ -1,0 +1,309 @@
+div#container
+{
+   width: 1360px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Shape2
+{
+   width: 1359px;
+   height: 39px;
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#Shape2_text
+{
+   position: absolute;
+   left: 1px;
+   top: 13px;
+   width: 1357px;
+   height: 25px;
+   line-height: 25px;
+   overflow: hidden;
+   text-align: center;
+}
+#Layer3
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Image9
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image10
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image12
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shape4
+{
+   width: 1359px;
+   height: 44px;
+   background-color: #800000;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+}
+#Shape4_text
+{
+   position: absolute;
+   left: 1px;
+   top: 15px;
+   width: 1357px;
+   height: 28px;
+   line-height: 28px;
+   overflow: hidden;
+   text-align: center;
+}
+#wb_menu2
+{
+   border: 0px solid #C0C0C0;
+   background-color: transparent;
+   margin: 0;
+   text-align: center;
+}
+#wb_menu2 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_menu2 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 70px 0px 0px;
+}
+#wb_menu2 a
+{
+   display: block;
+   float: left;
+   color: #000000;
+   border: 0px none #CCCCCC;
+   background-color: transparent;
+   background-image: none;
+   font-family: "MS Sans Serif";
+   font-weight: bold;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   height: 25px;
+   line-height: 25px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   text-align: center;
+}
+#wb_menu2 li:hover a, #wb_menu2 a:hover, #wb_menu2 .active
+{
+   color: #800000;
+   background-color: transparent;
+   background-image: none;
+   border: 0px none #2E6DA4;
+}
+#wb_menu2 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_menu2 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_menu2 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#Button2
+{
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   margin: 0;
+}
+#menu
+{
+   padding: 8px 15px 8px 15px;
+   list-style: none;
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   font-family: "MS Sans Serif";
+   font-weight: bold;
+   font-size: 0;
+   margin: 0;
+   text-align: left;
+}
+#menu > li
+{
+   display: inline-block;
+   font-size: 13px;
+}
+#menu a
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+#menu a:hover
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+#menu > .active
+{
+   color: #000000;
+}
+#menu > li + li:before
+{
+   content: "|";
+   padding: 0 6px;
+   color: #000000;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#PhotoCollage1
+{
+   box-sizing: border-box;
+   font-size: 0;
+   width: 100%;
+   height: 100%;
+   table-layout: fixed;
+   display: table;
+   margin: 0;
+   position: relative;
+}
+#PhotoCollage1 .thumbnail img
+{
+   border: 0px #000000 solid;
+   box-sizing: border-box;
+}
+#PhotoCollage1 .thumbnail
+{
+   position: absolute;
+}
+#PhotoCollage1 .thumbnail img
+{
+   width: 100%;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+}
+#Fondo
+{
+   width: 1360px;
+   height: 124px;
+   background-color: #800000;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#Fondo_text
+{
+   position: absolute;
+   left: 1px;
+   top: 55px;
+   width: 1358px;
+   height: 68px;
+   line-height: 68px;
+   overflow: hidden;
+   text-align: center;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Numeros 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 15px 15px 15px 15px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Numeros div
+{
+   text-align: left;
+}
+#wb_contacto 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_contacto div
+{
+   text-align: left;
+}
+#Escudo1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
