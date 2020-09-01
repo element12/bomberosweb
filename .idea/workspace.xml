@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="" />
+    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina_2.0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina_2.0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/prueba.php" beforeDir="false" afterPath="$PROJECT_DIR$/sql/prueba.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +49,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598469918286</updated>
-      <workItem from="1598469919377" duration="2099000" />
+      <workItem from="1598469919377" duration="2489000" />
+      <workItem from="1598544921583" duration="612000" />
+      <workItem from="1598975905031" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="ss">
       <created>1598470224524</created>
@@ -75,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598471552236</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="config">
+      <created>1598472260726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598472260726</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,17 +105,17 @@
       <screen x="0" y="0" width="1303" height="768" />
     </state>
     <state x="418" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1303.768@0.0.1303.768" timestamp="1598470208216" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1598471550550">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1598472258865">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1303.768@0.0.1303.768" timestamp="1598471550550" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1303.768@0.0.1303.768" timestamp="1598472258865" />
     <state x="428" y="107" key="NewPhpClassDialog" timestamp="1598469965807">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
     <state x="428" y="107" key="NewPhpClassDialog/0.0.1303.768@0.0.1303.768" timestamp="1598469965807" />
-    <state x="243" y="117" key="Vcs.Push.Dialog.v2" timestamp="1598471553978">
+    <state x="243" y="117" key="Vcs.Push.Dialog.v2" timestamp="1598472262082">
       <screen x="0" y="0" width="1303" height="768" />
     </state>
-    <state x="243" y="117" key="Vcs.Push.Dialog.v2/0.0.1303.768@0.0.1303.768" timestamp="1598471553978" />
+    <state x="243" y="117" key="Vcs.Push.Dialog.v2/0.0.1303.768@0.0.1303.768" timestamp="1598472262082" />
   </component>
 </project>
