@@ -1,14 +1,24 @@
 <?php
+    $Tipo = $_POST["Tipo"];
+    $Clase = $_POST["Clase"];
+    $Barrio = $_POST["Barrio"];
+    $Direccion = $_POST["Direccion"];
+    $Descripcion = $_POST["Descripcion"];
+    $Sitio_lac = $_POST["Sitio_lac"];
+    $Sitio_log = $_POST["Sitio_log"];
+    $Sitio_dir = $_POST["Sitio_dir"];
+    $Gps_lac = $_POST["Gps_lac"];
+    $Gps_log = $_POST["Gps_log"];
+    $Unidad = $_POST["Unidad"];
+
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     $from = "prueba@bomberosmadridb31.com";
-    $to = "607-JKguv8w8WHh6zaNX@esalert.active911.com";
+    $to = "jeisonortiz0016@gmail.com";
     $subject = "Prueba";
-    $message = "LLAMADA: ALERTA DE PRUEBA VIA CORREO
-    LUGAR: CONJUNTO RESIDENCIAL BOREAL
-    ADDR: Cl. 6 Sur ## 24-127, Madrid, Cundinamarca
-    ID: 001
-    MAPA: https://www.google.com/maps/place/Conjunto+Residencial+Boreal/@4.7329996,-74.2841813,20.29z/data=!4m5!3m4!1s0x8e3f79da7a9d91e3:0xa1c55d6a64ecb0e5!8m2!3d4.7327344!4d-74.2844667
+    $message = "LLAMADA: $Tipo $Clase
+    LUGAR: $Sitio_lac $Sitio_log
+    ADDR: $Sitio_dir
     RIESGO: MODERADO
     GRUPO: Pruebas";
     $headers = "From:" . $from;
