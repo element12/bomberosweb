@@ -15,10 +15,11 @@
     error_reporting( E_ALL );
     $from = "prueba@bomberosmadridb31.com";
     $to = "jeisonortiz0016@gmail.com";
-    $subject = "Prueba";
+    $subject = "$Tipo $Clase";
     $message = "LLAMADA: $Tipo $Clase
-    LUGAR: $Sitio_lac $Sitio_log
+    LUGAR: $Sitio_lac,$Sitio_log
     ADDR: $Sitio_dir
+    NOTA: $Barrio,$Direccion,$Descripcion
     RIESGO: MODERADO
     GRUPO: Pruebas";
     $headers = "From:" . $from;
