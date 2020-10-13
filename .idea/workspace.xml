@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e5abb01-ab12-49f6-8840-d8a1e949b23c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,6 +72,7 @@
       <workItem from="1599333850850" duration="810000" />
       <workItem from="1599804554852" duration="2305000" />
       <workItem from="1599837163193" duration="275000" />
+      <workItem from="1602618385382" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="ss">
       <created>1598470224524</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599807779902</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Atencion al publico">
+      <created>1602618662641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602618662641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +159,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="ss" />
     <MESSAGE value="config" />
-    <option name="LAST_COMMIT_MESSAGE" value="config" />
+    <MESSAGE value="Atencion al publico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atencion al publico" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598470208216">
